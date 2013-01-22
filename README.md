@@ -62,12 +62,10 @@ HTML file should look similar to this one:
 		<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
 		<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
 		<head>
-
 			<meta charset="utf-8">
 			<title>Stock</title>
 			<meta name="description" content="Clocks plugin">
 			<meta name="viewport" content="width=device-width">
-
 			<style type="text/css">
 				/* 				
 				- Basic styles for Stock - change as needed
@@ -114,28 +112,24 @@ HTML file should look similar to this one:
 						<span class="diff"></span>
 						<span class="pc plus">(<span class="percent-change">N/A</span>%)</span>
 					</p>
-
 					<p class="stock-dow">
 						<label>Dow Jones</label>
 						<span class="curr-price">xxx</span>
 						<span class="diff"></span>
 						<span class="pc plus">(<span class="percent-change">xxx</span>%)</span>
 					</p>
-
 					<p class="stock-nasdaq">
 						<label>NASDAQ</label>
 						<span class="curr-price">xxx</span>
 						<span class="diff"></span>
 						<span class="pc plus">(<span class="percent-change">N/A</span>%)</span>
 					</p>
-
 					<p class="stock-sp">
 						<label>S&amp;P</label>
 						<span class="curr-price">xxx</span>
 						<span class="diff"></span>
 						<span class="pc plus">(<span class="percent-change">N/A</span>%)</span>
 					</p>
-
 				</div>
 			<!-- jQuery is already included in core so you probably dont need to include this -->
 			<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
