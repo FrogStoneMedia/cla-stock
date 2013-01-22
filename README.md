@@ -6,10 +6,10 @@ Stock Price
 Search for your code on the following link:
 
 Your code will be in brackets next to the campany name.
+<a href="http://www.google.co.uk/finance">http://www.google.co.uk/finance</a>
 
-```html
-	<a href="http://www.google.co.uk/finance">http://www.google.co.uk/finance</a>
-```
+	
+
 
 The Java script files should be like this:
 ```javascript
