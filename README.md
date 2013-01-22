@@ -3,12 +3,9 @@ Stock Price
 
 [![](https://raw.github.com/Claromentis/stock/master/screenshot.png)](https://raw.github.com/Claromentis/stock/master/screenshot.png)
 
-Search for your code on the following link:
-
+Search for your code on: <a href="http://www.google.co.uk/finance">http://www.google.co.uk/finance</a>
+ 
 Your code will be in brackets next to the campany name.
-<a href="http://www.google.co.uk/finance">http://www.google.co.uk/finance</a>
-
-	
 
 
 The Java script files should be like this:
