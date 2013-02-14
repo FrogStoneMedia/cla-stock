@@ -1,7 +1,7 @@
 Stock Price
 ===============
 
-[![](https://raw.github.com/Claromentis/stock/master/screenshot.png)](https://raw.github.com/Claromentis/stock/master/screenshot.png)
+[![](https://raw.github.com/Claromentis/cla-stock/master/screenshot.png)](https://raw.github.com/Claromentis/cla-stock/master/screenshot.png)
 
 Search for your code on: <a href="http://www.google.co.uk/finance">http://www.google.co.uk/finance</a>
  
