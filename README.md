@@ -3,11 +3,11 @@ Stock Price
 
 [![](https://raw.github.com/Claromentis/cla-stock/master/screenshot.png)](https://raw.github.com/Claromentis/cla-stock/master/screenshot.png)
 
-Search for your code here: <a href="http://www.google.co.uk/finance">http://www.google.co.uk/finance</a>
+Search for your stock code here: <a href="http://www.google.co.uk/finance">http://www.google.co.uk/finance</a>
  
-Your code will be in brackets next to the company name.
+Your stock code will be in brackets next to the company name.
 
-Include the javascript and call as below, including the following arguemnts:
+Include the javascript and call as below, including the following arguements:
 
 - Stock Code
 - Target Element
@@ -19,7 +19,7 @@ Include the javascript and call as below, including the following arguemnts:
     getStockFigures("FB",".stock-fb .curr-price","l");
 
 ```
-The javaScript above will inset the current price (l) for Facebook (FB) into the element below:
+The javaScript above will insert the current price (l) for Facebook (FB) into the element below:
 
 ```html
 								
