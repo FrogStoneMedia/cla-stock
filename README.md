@@ -7,7 +7,7 @@ Search for your stock code here: <a href="http://www.google.co.uk/finance">http:
  
 Your stock code will be in brackets next to the company name.
 
-Include the javascript and call as below, including the following arguements:
+Include the JavaScript and call as below, including the following arguements:
 
 - Stock Code
 - Target Element
@@ -19,7 +19,7 @@ Include the javascript and call as below, including the following arguements:
     getStockFigures("FB",".stock-fb .curr-price","l");
 
 ```
-The javaScript above will insert the current price (l) for Facebook (FB) into the element below:
+The JavaScript above will insert the current price (l) for Facebook (FB) into the element below:
 
 ```html
 								
